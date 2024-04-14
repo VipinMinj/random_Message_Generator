@@ -4,7 +4,7 @@ This Random Fortune teller is a fun project that generates random fortunes every
 
 ## Features 
 * **Random Fortune Generation:** The project gerenrates random fortune each times it's run.
-* **Not an actual Fortune Teller:** This project is meant for fun and entertainment. They don't actually tell fortunes. Please don't take them seriously.
+* **Not an actual Fortune Teller:** This project is meant for fun and entertainment. It doesn't actually tell fortunes. Please don't take them seriously.
 
 ## Prerequisite
 Node.js needs to be installed on your system
